@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\c\u002B\u002Bproject\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Lesson 16.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B3AED1-8A1F-4FDA-B5C3-82CC3C2F4C5F}|Lesson 16.1.vcxproj|C:\\c\u002B\u002Bproject\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Lesson 16.1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{75B3AED1-8A1F-4FDA-B5C3-82CC3C2F4C5F}|Lesson 16.1.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\c\u002B\u002Bproject\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Lesson 16.1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75B3AED1-8A1F-4FDA-B5C3-82CC3C2F4C5F}|Lesson 16.1.vcxproj|C:\\c\u002B\u002Bproject\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Lesson 16.1\\Lesson 16.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\c\u002B\u002Bproject\\\u041D\u0435\u0442\u043E\u043B\u043E\u0433\u0438\u044F\\Lesson 16.1\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-08T15:48:08.177Z",
+              "WhenOpened": "2025-10-08T16:14:53.876Z",
               "EditorCaption": ""
             },
             {
