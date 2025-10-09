@@ -1,4 +1,10 @@
-/.vs
-/Lesson 16.1
-/x64
-/Lesson 16.1.vcxproj.user
+# Visual Studio user-specific files
+*.user
+
+# Visual Studio cache and local settings
+.vs/
+
+# Build output directories (x64, Debug, Release, etc.)
+x64/
+Debug/
+Release/
